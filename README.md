@@ -9,4 +9,14 @@
 ## middleware setup 
 ### right now use middlware in cors and body parser 
 
-## testing route link:- http://localhost:5000/user/test 
+## testing route link:- http://localhost:3000/user/test 
+## registration route link:- http://localhost:3000/user/register 
+
+
+
+
+
+
+
+
+## add my first system registration system I am so happy  
